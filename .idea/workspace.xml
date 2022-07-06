@@ -7,7 +7,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="05f646a6-e185-442a-b8e2-a9a56baf9549" name="Changes" comment="完整项目提交" />
+    <list default="true" id="05f646a6-e185-442a-b8e2-a9a56baf9549" name="Changes" comment="完整项目提交">
+      <change beforePath="$PROJECT_DIR$/springboot-dubbo-consumer/src/main/java/com/wayeal/controller/StaffController.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-dubbo-consumer/src/main/java/com/wayeal/controller/StaffController.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -142,7 +144,7 @@
       <workItem from="1656895540164" duration="6805000" />
       <workItem from="1656904440077" duration="5443000" />
       <workItem from="1656981489268" duration="10688000" />
-      <workItem from="1657072961425" duration="2430000" />
+      <workItem from="1657072961425" duration="2974000" />
     </task>
     <task id="LOCAL-00001" summary="完整项目提交">
       <created>1657074621821</created>
@@ -165,7 +167,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657076625573</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="完整项目提交">
+      <created>1657077147641</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1657077147641</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
